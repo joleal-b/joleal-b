@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software development student with experience in C, Bash, HTML, and CSS. Currently studying C at 42 and expanding my skillset in Cybersecurity (CEH) at isep academy and practicing pentesting on Hack The Box. Seeking my first professional opportunity! Proactive learner with strong adaptation skills, bringing optimism and empathy to the team. ️
+Software development student with experience in C, Bash, HTML, and CSS. Currently studying C at 42 School Porto and expanding my skillset in Cybersecurity (CEH) at ISEP Academy and practicing pentesting on Hack The Box. Seeking my first professional opportunity! Proactive learner with strong adaptation skills, bringing optimism and empathy to the team. ️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-barbosa-4996a2270)
